@@ -39,7 +39,7 @@ int main()
     {
         std::cout << line << std::endl;
     }
-
+ 
     infile.close();
 
     return 0;

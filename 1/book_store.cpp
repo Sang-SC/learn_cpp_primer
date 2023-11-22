@@ -4,7 +4,7 @@
 */
 
 #include <iostream>
-#include "Sales_item.h"
+#include "include/Sales_item.h"
 int main()
 {
     Sales_item total;  // 保存和的变量

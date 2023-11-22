@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include "Sales_data.hpp"
+#include "include/Sales_data.hpp"
 int main()
 {
     Sales_data data1, data2;

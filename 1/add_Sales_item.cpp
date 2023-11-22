@@ -1,7 +1,7 @@
 // 文件编译方法：g++ -o out add_Sales_item.cpp -I ./include
 
 #include <iostream>
-#include "Sales_item.h"
+#include "include/Sales_item.h"
 
 int main()
 {
